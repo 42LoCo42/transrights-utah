@@ -1,0 +1,14 @@
+* Trans rights are human rights!
+Utah did a fucky wucky and now we can upload stuff into their firebase storage,
+thus costing them money.
+
+Relevant links:
+- https://www.reddit.com/r/196/comments/1ciydfu/hey_btw_heres_the_link_to_the_utah_bathroom_ban/
+- https://www.reddit.com/r/196/comments/1cj3n0c/bankrupt_utah_for_passing_transphobic_laws_rule/
+- https://maiayoon.com/utah/
+- https://ut-sao-special-prod.web.app/sex_basis_complaint.html
+
+This repo is basically https://maiayoon.com/utah/ adapted to Node.js
+and currently runs ×5 on my server.
+
+Fuck the gov, protect trans peeps, we stay winning :3

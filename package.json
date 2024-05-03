@@ -1,0 +1,13 @@
+{
+	"name": "utah",
+	"version": "1.0.0",
+	"description": "fuck the gov :3",
+	"license": "MIT",
+	"type": "module",
+	"bin": {
+		"utah": "main.js"
+	},
+	"dependencies": {
+		"firebase": "^10.11.1"
+	}
+}
